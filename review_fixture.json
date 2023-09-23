@@ -1,0 +1,18 @@
+[
+    {
+        "model": "movies.review",
+        "pk": 1,
+        "fields": {
+            "grade": 4,
+            "movie": 1
+        }
+    },
+    {
+        "model": "movies.review",
+        "pk": 2,
+        "fields": {
+            "grade": 5,
+            "movie": 1
+        }
+    }
+]

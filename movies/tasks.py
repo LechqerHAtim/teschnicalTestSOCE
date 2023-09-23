@@ -4,5 +4,5 @@ import time
 
 @shared_task
 def simulate_cpu_intensive_task():
-    time.sleep(10)
+    time.sleep(5)
     return "Task completed!"

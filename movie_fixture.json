@@ -1,0 +1,18 @@
+[
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "title": "Movie 1",
+            "description": "Description of Movie 1"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 2,
+        "fields": {
+            "title": "Movie 2",
+            "description": "Description of Movie 2"
+        }
+    }
+]
